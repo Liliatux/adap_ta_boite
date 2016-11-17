@@ -1,0 +1,16 @@
+.ui.menu {
+	margin-top: 0px;
+	height: 80px;
+	font-size: 20px;
+}
+
+#slogan {
+	font-style: italic;
+	padding: 30px;
+	padding-left: 200px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 600px;
+}
