@@ -4,13 +4,69 @@
 	font-size: 20px;
 }
 
-#slogan {
+#slogan{
+	padding:30px;
+	margin-left: 100px;
+	color: purple;
+}
+
+#video{
+	margin-top: 150px;
+	margin-bottom: 100px;
+	margin-left: 600px;
+}
+
+#description {
 	font-style: italic;
-	padding: 30px;
-	padding-left: 200px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	background-color: purple;
+	padding: 100px;
+}
+
+#demande {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#logo {
+	padding: 60px;
+}
+
+#vide {
+	width: 300px;
 }
 
 .container {
 	margin: 0 auto;
-	width: 600px;
+	padding: 200px;
+	width: 1000px;
+}
+
+.ui.image {
+	margin: 150px auto;
+	left: 400px;
+}
+
+#footer {
+	background-color: purple;
+	color: white;
+	font-size: 30px;
+	padding: 50px;
+}
+
+#partenaire {
+	margin: 100px;
+}
+
+#service {
+	margin: 180px;
+	font-size: 20px;
+	left:20px;
+}
+
+h3 {
+	color: grey;
 }
